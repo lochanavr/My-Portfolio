@@ -7,7 +7,7 @@ This is my **personal portfolio website** designed and developed using **HTML, C
 ---
 
 ### 🔗 Live Demo
-👉 [View Website](https://lochanavr.github.io/) *(Update link if different)*
+👉 [View Website](https://lochanavr.github.io/My-Portfolio/) 
 
 ---
 
