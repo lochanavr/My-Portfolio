@@ -30,15 +30,6 @@ This is my **personal portfolio website** designed and developed using **HTML, C
 - **Design Tools:** Canva, Figma (if applicable)
 - **Hosting:** GitHub Pages
 
----
-
-### 📸 Preview
-
-*(You can add a screenshot of the homepage here in your GitHub README)*  
-`![Portfolio Screenshot](./assets/portfolio-screenshot.png)`
-
----
-
 ### 📥 How to Use
 
 1. Clone the repository:
@@ -64,6 +55,3 @@ This is my **personal portfolio website** designed and developed using **HTML, C
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lochana-v-r/)
 - 📧 vrlochana@gmail.com
 
----
-
-Let me know if you’d like a Markdown version for direct pasting into your `README.md`!
